@@ -1,0 +1,1483 @@
+[
+    {
+        "url": "https://www.codechef.com/practice/course/basic-math-c/PCBM01/problems/FIT",
+        "name": "Fitness",
+        "difficulty": "Beginner",
+        "tags": [
+            "Math"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/basic-math-c/PCBM01/problems/CCHOCOLATES",
+        "name": "Chef and Chocolates",
+        "difficulty": "Beginner",
+        "tags": [
+            "Math"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/basic-math-c/PCBM01/problems/CMATARR1",
+        "name": "Rearrange Code",
+        "difficulty": "Beginner",
+        "tags": [
+            "Array",
+            "String",
+            "Math",
+            "Sorting"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/basic-math-c/PCBM01/problems/CANDYSTORE",
+        "name": "Candy Store",
+        "difficulty": "Beginner",
+        "tags": [
+            "Math"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/basic-math-c/PCBM01/problems/SCALENE",
+        "name": "Scalene Triangle",
+        "difficulty": "Beginner",
+        "tags": [
+            "Math"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/basic-math-c/PCBM01/problems/FAVOURITENUM",
+        "name": "Favourite Numbers",
+        "difficulty": "Beginner",
+        "tags": [
+            "Math"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/basic-math-c/PCBM01/problems/SEVENRINGS",
+        "name": "7 Rings",
+        "difficulty": "Beginner",
+        "tags": [
+            "Math"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/basic-math-c/PCBM02/problems/MAKEAP",
+        "name": "Make AP",
+        "difficulty": "Beginner",
+        "tags": [
+            "Math"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/basic-math-c/PCBM02/problems/SUMNEQ",
+        "name": "Integers that sum to the same value",
+        "difficulty": "Beginner",
+        "tags": [
+            "Math"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/basic-math-c/PCBM02/problems/TESTAVG",
+        "name": "Test Averages",
+        "difficulty": "Beginner",
+        "tags": [
+            "Math"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/basic-math-c/PCBM02/problems/MINNOO",
+        "name": "Minimum Number of Ones",
+        "difficulty": "Beginner",
+        "tags": [
+            "Math"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/basic-math-c/PCBM02/problems/NEGPROD",
+        "name": "Negative Product",
+        "difficulty": "Beginner",
+        "tags": [
+            "Math"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/basic-math-c/PCBM02/problems/FLOW016",
+        "name": "GCD and LCM",
+        "difficulty": "Beginner",
+        "tags": [
+            "Math"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/arrays-c/PCAR01/problems/RATINGINPRAC",
+        "name": "Difficulty Rating Order",
+        "difficulty": "Beginner",
+        "tags": [
+            "Array"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/arrays-c/PCAR01/problems/KITCHENCOST",
+        "name": "Cost of Groceries",
+        "difficulty": "Beginner",
+        "tags": [
+            "Array"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/arrays-c/PCAR01/problems/RUNCOMPARE",
+        "name": "Running Comparison",
+        "difficulty": "Beginner",
+        "tags": [
+            "Array"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/arrays-c/PCAR01/problems/LARGESECOND",
+        "name": "Largest and Second Largest",
+        "difficulty": "Beginner",
+        "tags": [
+            "Array"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/arrays-c/PCAR01/problems/CS2023_STK",
+        "name": "CodeChef Streak",
+        "difficulty": "Beginner",
+        "tags": [
+            "Array"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/arrays-c/PCAR02/problems/DISCOUNTT",
+        "name": "Take discount or Not",
+        "difficulty": "Beginner",
+        "tags": [
+            "Array"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/arrays-c/PCAR02/problems/SNAPCHAT",
+        "name": "Snapchat",
+        "difficulty": "Beginner",
+        "tags": [
+            "Array"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/arrays-c/PCAR02/problems/CHEFWORK",
+        "name": "Workers",
+        "difficulty": "Beginner",
+        "tags": [
+            "Array"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/arrays-c/PCAR02/problems/OPMIN",
+        "name": "MIN To MAX",
+        "difficulty": "Beginner",
+        "tags": [
+            "Array"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/arrays-c/PCAR02/problems/COPS",
+        "name": "Cops and the Thief Devu",
+        "difficulty": "Beginner",
+        "tags": [
+            "Array"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/strings-c/PCST01/problems/DNASTORAGE",
+        "name": "DNA Storage",
+        "difficulty": "Beginner",
+        "tags": [
+            "String"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/strings-c/PCST01/problems/TWOSTR",
+        "name": "Chef and the Wildcard Matching",
+        "difficulty": "Beginner",
+        "tags": [
+            "String"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/strings-c/PCST01/problems/BLOBBYVOLLEY",
+        "name": "Blobby Volley Scores",
+        "difficulty": "Beginner",
+        "tags": [
+            "String"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/strings-c/PCST01/problems/HAPPYSTR",
+        "name": "Chef and Happy String",
+        "difficulty": "Beginner",
+        "tags": [
+            "String"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/strings-c/PCST02/problems/BROKENSTRING",
+        "name": "Mario and the Broken String",
+        "difficulty": "Beginner",
+        "tags": [
+            "String"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/strings-c/PCST02/problems/ALPHABET",
+        "name": "Studying Alphabet",
+        "difficulty": "Beginner",
+        "tags": [
+            "String"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/strings-c/PCST02/problems/DDMMORMMDD",
+        "name": "DDMM or MMDD",
+        "difficulty": "Beginner",
+        "tags": [
+            "String"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/strings-c/PCST02/problems/EPANLNK",
+        "name": "Efficient PAN Linking",
+        "difficulty": "Beginner",
+        "tags": [
+            "String"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/strings-c/PCST02/problems/ON_OFF",
+        "name": "N Buttons 1 Bulb",
+        "difficulty": "Beginner",
+        "tags": [
+            "String"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/sorting-c/PCSOR01/problems/TSORT",
+        "name": "Turbo Sort",
+        "difficulty": "Beginner",
+        "tags": [
+            "Heap",
+            "Sorting"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/sorting-c/PCSOR01/problems/HORSES",
+        "name": "Racing Horses",
+        "difficulty": "Beginner",
+        "tags": [
+            "Sorting"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/sorting-c/PCSOR01/problems/CUTOFF",
+        "name": "Passing Marks",
+        "difficulty": "Beginner",
+        "tags": [
+            "Sorting"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/sorting-c/PCSOR01/problems/AMMEAT",
+        "name": "Andrew and the Meatballs",
+        "difficulty": "Beginner",
+        "tags": [
+            "Sorting"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/sorting-c/PCSOR01/problems/CHEFA",
+        "name": "Chef and easy problem",
+        "difficulty": "Beginner",
+        "tags": [
+            "Sorting"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/sorting-c/PCSOR02/problems/RACE400M",
+        "name": "400M Race",
+        "difficulty": "Beginner",
+        "tags": [
+            "Sorting"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/sorting-c/PCSOR02/problems/FACEBOOK",
+        "name": "Facebook",
+        "difficulty": "Beginner",
+        "tags": [
+            "Sorting"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/sorting-c/PCSOR02/problems/BOOKCHEF",
+        "name": "ChefWatson uses Social Network",
+        "difficulty": "Beginner",
+        "tags": [
+            "Sorting"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/sorting-c/PCSOR02/problems/WATESTCASES",
+        "name": "WA Test Cases",
+        "difficulty": "Beginner",
+        "tags": [
+            "Sorting"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/sorting-c/PCSOR02/problems/SIMPSTAT",
+        "name": "Simple Statistics",
+        "difficulty": "Beginner",
+        "tags": [
+            "Sorting"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/linked-lists/LINKLISTF/problems/PREP55",
+        "name": "Linked List - Remove Duplicates from Sorted List",
+        "difficulty": "Beginner",
+        "tags": [
+            "Linked list"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/linked-lists/LINKLISTF/problems/CRITLIST",
+        "name": "Crits in a Linked List!",
+        "difficulty": "Beginner",
+        "tags": [
+            "Linked list"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/linked-lists/LINKLISTF/problems/PREP58",
+        "name": "Linked List - Cycle in a linked list",
+        "difficulty": "Beginner",
+        "tags": [
+            "Linked list"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/linked-lists/LINKLISTF/problems/SRTLL",
+        "name": "Another sorting problem",
+        "difficulty": "Beginner",
+        "tags": [
+            "Linked list"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/linked-lists/LINKLISTF/problems/REMDUP",
+        "name": "Remove Duplicates",
+        "difficulty": "Beginner",
+        "tags": [
+            "Linked list"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/linked-lists/LINKLISTP/problems/DR",
+        "name": "Duplicate Removal",
+        "difficulty": "Beginner",
+        "tags": [
+            "Linked list"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/linked-lists/LINKLISTP/problems/LLMID",
+        "name": "Find the Middle",
+        "difficulty": "Beginner",
+        "tags": [
+            "Linked list"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/linked-lists/LINKLISTP/problems/LINKLP",
+        "name": "Loop in a Linked List!",
+        "difficulty": "Beginner",
+        "tags": [
+            "Linked list"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/linked-lists/LINKLISTP/problems/INSDELDLL",
+        "name": "Insert and Delete",
+        "difficulty": "Beginner",
+        "tags": [
+            "Linked list"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/linked-lists/LINKLISTP/problems/SEGEO",
+        "name": "Even and Odd",
+        "difficulty": "Beginner",
+        "tags": [
+            "Linked list"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/linked-lists/LINKLISTP/problems/NODEAD",
+        "name": "Insert Remove Nodes",
+        "difficulty": "Beginner",
+        "tags": [
+            "Linked list"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/linked-lists/LINKLISTP/problems/ROTLIST",
+        "name": "Rotate the List",
+        "difficulty": "Beginner",
+        "tags": [
+            "Linked list"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/linked-lists/LINKLISTP/problems/RTLL",
+        "name": "Reverse The Linked List",
+        "difficulty": "Beginner",
+        "tags": [
+            "Linked list"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/linked-lists/LINKLISTP/problems/REVSEG",
+        "name": "Reverse the Segment",
+        "difficulty": "Beginner",
+        "tags": [
+            "Linked list"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/linked-lists/LINKLISTP/problems/NSELL",
+        "name": "Next Smaller value",
+        "difficulty": "Beginner",
+        "tags": [
+            "Linked list"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/linked-lists/LINKLISTP/problems/STRANGELIST",
+        "name": "Strange List",
+        "difficulty": "Beginner",
+        "tags": [
+            "Linked list"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/linked-lists/LINKLISTP/problems/KGRPREV",
+        "name": "Reverse m size groups",
+        "difficulty": "Beginner",
+        "tags": [
+            "Linked list"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/two-pointers/POINTERF/problems/PREP69",
+        "name": "Two Pointers - Remove Duplicates",
+        "difficulty": "Beginner",
+        "tags": [
+            "Two pointers"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/two-pointers/POINTERF/problems/PREP68",
+        "name": "Two Pointers - Difference Pairs",
+        "difficulty": "Beginner",
+        "tags": [
+            "Two pointers"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/two-pointers/POINTERF/problems/PROC18A",
+        "name": "The Great Run",
+        "difficulty": "Beginner",
+        "tags": [
+            "Two pointers"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/two-pointers/POINTERF/problems/PREP17",
+        "name": "Two Pointers - Maximum Common Elements",
+        "difficulty": "Beginner",
+        "tags": [
+            "Two pointers"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/two-pointers/POINTERF/problems/COVID19",
+        "name": "Coronavirus Spread",
+        "difficulty": "Beginner",
+        "tags": [
+            "Two pointers"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/two-pointers/POINTERP/problems/ARRSWAP",
+        "name": "Asymmetric Swaps",
+        "difficulty": "Beginner",
+        "tags": [
+            "Two pointers"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/two-pointers/POINTERP/problems/NAME2",
+        "name": "Your Name is Mine",
+        "difficulty": "Beginner",
+        "tags": [
+            "Two pointers"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/two-pointers/POINTERP/problems/SPSBTR",
+        "name": "Special Substring",
+        "difficulty": "Beginner",
+        "tags": [
+            "Two pointers"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/two-pointers/POINTERP/problems/RAINBOWA",
+        "name": "Chef and Rainbow Array",
+        "difficulty": "Beginner",
+        "tags": [
+            "Two pointers"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/two-pointers/POINTERP/problems/PREP18",
+        "name": "Two Pointers - Find Array Min",
+        "difficulty": "Beginner",
+        "tags": [
+            "Two pointers"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/two-pointers/POINTERP/problems/MINSIM",
+        "name": "Minimum Similar Substring",
+        "difficulty": "Beginner",
+        "tags": [
+            "Two pointers"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/two-pointers/POINTERP/problems/SPLITPAL",
+        "name": "Palindrome by Splitting",
+        "difficulty": "Beginner",
+        "tags": [
+            "Two pointers",
+            "Queue",
+            "Stack"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/two-pointers/POINTERP/problems/COLGLF5",
+        "name": "College Life 5",
+        "difficulty": "Beginner",
+        "tags": [
+            "Two pointers"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/two-pointers/POINTERP/problems/CHEFSPL",
+        "name": "Chef And Special Dishes",
+        "difficulty": "Beginner",
+        "tags": [
+            "Two pointers"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/two-pointers/POINTERP/problems/MAXSEGM",
+        "name": "Maximum Unique Segment",
+        "difficulty": "Beginner",
+        "tags": [
+            "Two pointers"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/two-pointers/POINTERP/problems/VOWANX",
+        "name": "Vowel Anxiety",
+        "difficulty": "Beginner",
+        "tags": [
+            "Two pointers"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/stacks-and-queues/STAQUEF/problems/NEC",
+        "name": "Practice problem - Necklace",
+        "difficulty": "Beginner",
+        "tags": [
+            "Stack",
+            "Queue"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/stacks-and-queues/STAQUEF/problems/ONP",
+        "name": "Transform the Expression",
+        "difficulty": "Beginner",
+        "tags": [
+            "Stack",
+            "Queue"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/stacks-and-queues/STAQUEF/problems/DSAC67",
+        "name": "Stack Sort",
+        "difficulty": "Beginner",
+        "tags": [
+            "Queue",
+            "Stack"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/stacks-and-queues/STAQUEF/problems/PREP59",
+        "name": "Stacks & Queues - Valid Parenthesis",
+        "difficulty": "Beginner",
+        "tags": [
+            "Stack",
+            "Queue"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/stacks-and-queues/STAQUEF/problems/STONE_PILE",
+        "name": "Stone Pile",
+        "difficulty": "Beginner",
+        "tags": [
+            "Stack",
+            "Queue"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/stacks-and-queues/STAQUEP/problems/PREP60",
+        "name": "Stacks & Queues - Previous smaller element",
+        "difficulty": "Beginner",
+        "tags": [
+            "Stack",
+            "Queue"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/stacks-and-queues/STAQUEP/problems/PREP21",
+        "name": "Stacks & Queues - Evaluate Expression",
+        "difficulty": "Beginner",
+        "tags": [
+            "Stack",
+            "Queue"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/stacks-and-queues/STAQUEP/problems/ARRBUF",
+        "name": "Arrange via Buffer",
+        "difficulty": "Beginner",
+        "tags": [
+            "Stack",
+            "Queue"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/stacks-and-queues/STAQUEP/problems/SUSSTR",
+        "name": "Suspense String",
+        "difficulty": "Beginner",
+        "tags": [
+            "Stack",
+            "Queue"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/stacks-and-queues/STAQUEP/problems/COMPILER",
+        "name": "Compilers and parsers",
+        "difficulty": "Beginner",
+        "tags": [
+            "Stack",
+            "Queue"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/stacks-and-queues/STAQUEP/problems/PREP23",
+        "name": "Stacks & Queues - Sliding Window Maximum",
+        "difficulty": "Beginner",
+        "tags": [
+            "Stack",
+            "Queue"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/stacks-and-queues/STAQUEP/problems/SDSTRING",
+        "name": "Self-Destructing Strings",
+        "difficulty": "Beginner",
+        "tags": [
+            "Stack",
+            "Queue"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/stacks-and-queues/STAQUEP/problems/PREP22",
+        "name": "Stacks & Queues - Largest Rectangle in Histogram",
+        "difficulty": "Beginner",
+        "tags": [
+            "Stack",
+            "Queue"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/stacks-and-queues/STAQUEP/problems/MXWATR",
+        "name": "Maximum water in a section",
+        "difficulty": "Beginner",
+        "tags": [
+            "Stack",
+            "Queue"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/stacks-and-queues/STAQUEP/problems/MAXREC",
+        "name": "Maximum Area",
+        "difficulty": "Beginner",
+        "tags": [
+            "Stack",
+            "Queue"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/heaps/HEAPF/problems/TSTROBOT",
+        "name": "Testing Robot",
+        "difficulty": "Beginner",
+        "tags": [
+            "Heap"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/heaps/HEAPF/problems/RRCOPY",
+        "name": "Copy-Paste",
+        "difficulty": "Beginner",
+        "tags": [
+            "Heap"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/heaps/HEAPF/problems/CAPPLE",
+        "name": "Chef and Apple Trees",
+        "difficulty": "Beginner",
+        "tags": [
+            "Heap"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/heaps/HEAPF/problems/CLEANUP",
+        "name": "Cleaning Up",
+        "difficulty": "Beginner",
+        "tags": [
+            "Heap"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/heaps/HEAPP/problems/DISCHAR",
+        "name": "Distinct Characters Subsequence",
+        "difficulty": "Beginner",
+        "tags": [
+            "Heap"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/heaps/HEAPP/problems/ALTTAB",
+        "name": "Alt-Tab",
+        "difficulty": "Beginner",
+        "tags": [
+            "Heap"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/heaps/HEAPP/problems/IPCTRAIN",
+        "name": "IPC Trainers",
+        "difficulty": "Beginner",
+        "tags": [
+            "Heap"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/heaps/HEAPP/problems/AIRTRAV",
+        "name": "Chef Airlines",
+        "difficulty": "Beginner",
+        "tags": [
+            "Heap"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/heaps/HEAPP/problems/CTEAMS",
+        "name": "Chef Teams",
+        "difficulty": "Beginner",
+        "tags": [
+            "Heap"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/heaps/HEAPP/problems/CIREQ",
+        "name": "Positive array",
+        "difficulty": "Beginner",
+        "tags": [
+            "Heap"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/heaps/HEAPP/problems/RKS",
+        "name": "Rooks",
+        "difficulty": "Beginner",
+        "tags": [
+            "Heap"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/heaps/HEAPP/problems/TOURMAP",
+        "name": "Sridhar Likes Travelling",
+        "difficulty": "Beginner",
+        "tags": [
+            "Heap"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/heaps/HEAPP/problems/INC_HEIGHTS",
+        "name": "Parallel World",
+        "difficulty": "Beginner",
+        "tags": [
+            "Heap"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/heaps/HEAPP/problems/CHEFTMA",
+        "name": "Chef and Time Machine",
+        "difficulty": "Beginner",
+        "tags": [
+            "Heap"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/arrays-strings-sorting/INTARR01/problems/MISSP",
+        "name": "Chef and Dolls",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Array",
+            "String",
+            "Sorting"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/arrays-strings-sorting/INTARR01/problems/CFRTEST",
+        "name": "Devu and friendship testing",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Array",
+            "String",
+            "Sorting"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/arrays-strings-sorting/INTARR01/problems/EQUALELE",
+        "name": "Equal Elements",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Array",
+            "String",
+            "Sorting"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/arrays-strings-sorting/INTARR01/problems/DOMINANT2",
+        "name": "Dominant Element",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Array",
+            "String",
+            "Sorting"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/arrays-strings-sorting/INTARR01/problems/DISTINCTCOL",
+        "name": "Distinct Colors",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Array",
+            "String",
+            "Sorting"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/arrays-strings-sorting/INTARR02/problems/LAPIN",
+        "name": "Lapindromes",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Array",
+            "String",
+            "Sorting"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/arrays-strings-sorting/INTARR02/problems/LELEMON",
+        "name": "Little Elephant and Lemonade",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Array",
+            "String",
+            "Sorting"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/arrays-strings-sorting/INTARR02/problems/EQDIS",
+        "name": "Equal Distinct",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Array",
+            "String",
+            "Sorting"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/arrays-strings-sorting/INTARR02/problems/MAXEXP",
+        "name": "Maximum Expression",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Array",
+            "String",
+            "Sorting"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/arrays-strings-sorting/INTARR02/problems/LISTLIST",
+        "name": "List of Lists",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Array",
+            "String",
+            "Sorting"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/greedy-algorithms/INTGRA01/problems/MAXDIFF",
+        "name": "Maximum Weight Difference",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Greedy"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/greedy-algorithms/INTGRA01/problems/PERMEXIS",
+        "name": "Watson asks Does Permutation Exist",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Greedy"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/greedy-algorithms/INTGRA01/problems/XYSTR",
+        "name": "Chef and String",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Greedy"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/greedy-algorithms/INTGRA01/problems/TACHSTCK",
+        "name": "Chopsticks",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Greedy"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/greedy-algorithms/INTGRA01/problems/MOONSOON",
+        "name": "EVacuate to Moon",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Greedy"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/greedy-algorithms/INTGRA02/problems/SNELECT",
+        "name": "Snakes, Mongooses and the Ultimate Election",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Greedy"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/greedy-algorithms/INTGRA02/problems/MAXSC",
+        "name": "Maximum Score",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Greedy"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/greedy-algorithms/INTGRA02/problems/SUMPAIR",
+        "name": "Maximize Disjoint Pair Sum",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Greedy"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/greedy-algorithms/INTGRA02/problems/KLIP",
+        "name": "K-Flip",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Greedy"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/greedy-algorithms/INTGRA02/problems/ZCO15003",
+        "name": "Covering",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Greedy"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/greedy-algorithms/INTGRA02/problems/LEMUSIC",
+        "name": "Little Elephant and Music",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Greedy"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/binary-search/INTBINS01/problems/TRICOIN",
+        "name": "Coins And Triangle",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Binary search"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/binary-search/INTBINS01/problems/WAV2",
+        "name": "The Wave",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Binary search"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/binary-search/INTBINS01/problems/SHKNUM",
+        "name": "Sheokand and Number",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Binary search"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/binary-search/INTBINS01/problems/MINEAT",
+        "name": "Minion Chef and Bananas",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Binary search"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/binary-search/INTBINS01/problems/SNAKEEAT",
+        "name": "Snake Eating",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Binary search"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/binary-search/INTBINS02/problems/MINMAXARR",
+        "name": "Minimize the Maximum",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Binary search"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/binary-search/INTBINS02/problems/CIRCINTE",
+        "name": "Circular Intervals",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Binary search"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/binary-search/INTBINS02/problems/FORESTGA",
+        "name": "Forest Gathering",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Binary search"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/binary-search/INTBINS02/problems/SQUIRREL",
+        "name": "Squirrel and chestnut",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Binary search"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/binary-search/INTBINS02/problems/FLUSHOT",
+        "name": "Flu Shot Lineup",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Binary search"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/dynamic-programming/INTDP01/problems/ALTARAY",
+        "name": "Alternating subarray prefix",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Dynamic programming"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/dynamic-programming/INTDP01/problems/SUBINC",
+        "name": "Count Subarrays",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Dynamic programming"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/dynamic-programming/INTDP01/problems/SUMTRIAN",
+        "name": "Sums in a Triangle",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Dynamic programming"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/dynamic-programming/INTDP01/problems/MAXCOMP",
+        "name": "Event Organizer",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Dynamic programming"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/dynamic-programming/INTDP01/problems/BINARYSUB",
+        "name": "Binary Substituition",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Dynamic programming"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/dynamic-programming/INTDP01/problems/MGCRNK",
+        "name": "Magic Rankings",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Dynamic programming"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/dynamic-programming/INTDP01/problems/ZCO14002",
+        "name": "SUPW",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Dynamic programming"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/dynamic-programming/INTDP01/problems/ZCO14004",
+        "name": "IPL",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Dynamic programming"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/dynamic-programming/INTDP01/problems/ZCO15001",
+        "name": "Break Up",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Dynamic programming"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/dynamic-programming/INTDP02/problems/MAXCROSS",
+        "name": "Maximal crosses",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Dynamic programming"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/dynamic-programming/INTDP02/problems/E1",
+        "name": "The White Knight",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Dynamic programming"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/dynamic-programming/INTDP02/problems/MAXLCS",
+        "name": "Maximizing LCS",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Dynamic programming"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/dynamic-programming/INTDP02/problems/CAOS2",
+        "name": "CAO Stage-2",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Dynamic programming"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/dynamic-programming/INTDP02/problems/DISHDIS",
+        "name": "Dish Distribution",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Dynamic programming"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/dynamic-programming/INTDP02/problems/COUNTPAL",
+        "name": "Count palindromes",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Dynamic programming"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/dynamic-programming/INTDP02/problems/FCBARCA",
+        "name": "Barcelona Gameplay Tactics",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Dynamic programming"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/dynamic-programming/INTDP02/problems/ZCO16002",
+        "name": "Bamboo Art",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Dynamic programming"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/dynamic-programming/INTDP02/problems/INOI1301",
+        "name": "Calvins Game",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Dynamic programming"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/dynamic-programming/INTDP02/problems/PEC005",
+        "name": "Longest Increasing Subsequence",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Dynamic programming"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/dynamic-programming/INTDP02/problems/TILE",
+        "name": "Easy Tiling",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Dynamic programming"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/dynamic-programming/INTDP02/problems/ZCO13002",
+        "name": "Little Red Riding Hood",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Dynamic programming"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/number-theory/INTNT01/problems/RETURNCHANGE",
+        "name": "Return the Change",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Math"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/number-theory/INTNT01/problems/ODDSUMPAIR",
+        "name": "Odd Sum Pair",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Math"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/number-theory/INTNT01/problems/CUTPAPER",
+        "name": "Paper Cutting",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Math"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/number-theory/INTNT01/problems/FOODPLAN",
+        "name": "Online or Offline",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Math"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/number-theory/INTNT01/problems/BETDEAL",
+        "name": "Better Deal",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Math"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/number-theory/INTNT01/problems/PRIMEDICE",
+        "name": "Hackerman",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Math"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/number-theory/INTNT01/problems/EXISTENCE",
+        "name": "Existence",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Math"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/number-theory/INTNT01/problems/APPLEORANGE",
+        "name": "Apples and oranges",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Math"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/number-theory/INTNT01/problems/DIVIDEMAKEEQ",
+        "name": "Luigi and Uniformity",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Math"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/number-theory/INTNT01/problems/STRNG",
+        "name": "Strong Elements",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Math"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/number-theory/INTNT02/problems/BUDTECH",
+        "name": "Budget of Technex",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Math"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/number-theory/INTNT02/problems/BOOKPAGES",
+        "name": "Divide Pages",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Math"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/number-theory/INTNT02/problems/RANKLISTPAGE",
+        "name": "Ranklist Pages",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Math"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/number-theory/INTNT02/problems/ANUWTA",
+        "name": "Walk on the Axis",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Math"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/number-theory/INTNT02/problems/LUCKYN",
+        "name": "Lucky Numbers",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Math"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/number-theory/INTNT02/problems/REDSTRBTN",
+        "name": "Redistributing Chocolates",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Math"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/number-theory/INTNT02/problems/RECIPE",
+        "name": "Cutting Recipes",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Math"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/number-theory/INTNT02/problems/NOTUNIT",
+        "name": "Dazzling GCD Pair",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Math"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/number-theory/INTNT02/problems/PRIMEFACT",
+        "name": "Add smallest prime factor",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Math"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/number-theory/INTNT02/problems/CHEFLCM",
+        "name": "Chef and Interview",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Math"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/number-theory/INTNT02/problems/NUMFACT",
+        "name": "Number of Factors",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Math"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/number-theory/INTNT02/problems/LEDIV",
+        "name": "Little Elephant and Divisors",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Math"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/number-theory/INTNT02/problems/GCDDIV",
+        "name": "The hardest gcd problem",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Math"
+        ]
+    },
+    {
+        "url": "https://www.codechef.com/practice/course/number-theory/INTNT02/problems/MUSICHAIR",
+        "name": "Musical Chairs",
+        "difficulty": "Intermediate",
+        "tags": [
+            "Math"
+        ]
+    }
+]

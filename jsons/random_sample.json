@@ -1,0 +1,207 @@
+{
+    "Array": [
+        {
+            "url": "https://leetcode.com/problems/video-stitching",
+            "name": "1024. Video Stitching",
+            "difficulty": "Medium",
+            "tags": [
+                "Array",
+                "Dynamic Programming",
+                "Greedy"
+            ]
+        },
+        {
+            "url": "https://leetcode.com/problems/find-the-distinct-difference-array",
+            "name": "2670. Find the Distinct Difference Array",
+            "difficulty": "Easy",
+            "tags": [
+                "Array",
+                "Hash Table"
+            ]
+        }
+    ],
+    "Bit Manipulation": [
+        {
+            "url": "https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero",
+            "name": "2275. Largest Combination With Bitwise AND Greater Than Zero",
+            "difficulty": "Medium",
+            "tags": [
+                "Array",
+                "Hash Table",
+                "Bit Manipulation",
+                "Counting"
+            ]
+        },
+        {
+            "url": "https://leetcode.com/problems/set-mismatch",
+            "name": "645. Set Mismatch",
+            "difficulty": "Easy",
+            "tags": [
+                "Array",
+                "Hash Table",
+                "Bit Manipulation",
+                "Sorting"
+            ]
+        }
+    ],
+    "Linked List": [
+        {
+            "url": "https://leetcode.com/problems/next-greater-node-in-linked-list",
+            "name": "1019. Next Greater Node In Linked List",
+            "difficulty": "Medium",
+            "tags": [
+                "Array",
+                "Linked List",
+                "Stack",
+                "Monotonic Stack"
+            ]
+        },
+        {
+            "url": "https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list",
+            "name": "1171. Remove Zero Sum Consecutive Nodes from Linked List",
+            "difficulty": "Medium",
+            "tags": [
+                "Hash Table",
+                "Linked List"
+            ]
+        }
+    ],
+    "Math": [
+        {
+            "url": "https://leetcode.com/problems/convert-to-base-2",
+            "name": "1017. Convert to Base -2",
+            "difficulty": "Medium",
+            "tags": [
+                "Math"
+            ]
+        },
+        {
+            "url": "https://leetcode.com/problems/solve-the-equation",
+            "name": "640. Solve the Equation",
+            "difficulty": "Medium",
+            "tags": [
+                "Math",
+                "String",
+                "Simulation"
+            ]
+        }
+    ],
+    "Stack": [
+        {
+            "url": "https://leetcode.com/problems/min-stack",
+            "name": "155. Min Stack",
+            "difficulty": "Medium",
+            "tags": [
+                "Stack",
+                "Design"
+            ]
+        },
+        {
+            "url": "https://leetcode.com/problems/next-greater-element-i",
+            "name": "496. Next Greater Element I",
+            "difficulty": "Easy",
+            "tags": [
+                "Array",
+                "Hash Table",
+                "Stack",
+                "Monotonic Stack"
+            ]
+        }
+    ],
+    "String": [
+        {
+            "url": "https://leetcode.com/problems/substring-xor-queries",
+            "name": "2564. Substring XOR Queries",
+            "difficulty": "Medium",
+            "tags": [
+                "Array",
+                "Hash Table",
+                "String",
+                "Bit Manipulation"
+            ]
+        },
+        {
+            "url": "https://leetcode.com/problems/join-two-arrays-by-id",
+            "name": "2722. Join Two Arrays by ID",
+            "difficulty": "Medium",
+            "tags": [
+                "String",
+                "Greedy"
+            ]
+        }
+    ],
+    "Queue": [
+        {
+            "url": "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+            "name": "1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+            "difficulty": "Medium",
+            "tags": [
+                "Array",
+                "Queue",
+                "Sliding Window",
+                "Heap (Priority Queue)",
+                "Ordered Set",
+                "Monotonic Queue"
+            ]
+        },
+        {
+            "url": "https://www.codechef.com/practice/course/stacks-and-queues/STAQUEP/problems/PREP23",
+            "name": "Stacks & Queues - Sliding Window Maximum",
+            "difficulty": "Beginner",
+            "tags": [
+                "Stack",
+                "Queue"
+            ]
+        }
+    ],
+    "Recursion": [
+        {
+            "url": "https://leetcode.com/problems/find-the-winner-of-the-circular-game",
+            "name": "1823. Find the Winner of the Circular Game",
+            "difficulty": "Medium",
+            "tags": [
+                "Array",
+                "Math",
+                "Recursion",
+                "Queue",
+                "Simulation"
+            ]
+        },
+        {
+            "url": "https://leetcode.com/problems/all-possible-full-binary-trees",
+            "name": "894. All Possible Full Binary Trees",
+            "difficulty": "Medium",
+            "tags": [
+                "Dynamic Programming",
+                "Tree",
+                "Recursion",
+                "Memoization",
+                "Binary Tree"
+            ]
+        }
+    ],
+    "Sorting": [
+        {
+            "url": "https://leetcode.com/problems/non-overlapping-intervals",
+            "name": "435. Non-overlapping Intervals",
+            "difficulty": "Medium",
+            "tags": [
+                "Array",
+                "Dynamic Programming",
+                "Greedy",
+                "Sorting"
+            ]
+        },
+        {
+            "url": "https://leetcode.com/problems/relative-sort-array",
+            "name": "1122. Relative Sort Array",
+            "difficulty": "Easy",
+            "tags": [
+                "Array",
+                "Hash Table",
+                "Sorting",
+                "Counting Sort"
+            ]
+        }
+    ]
+}
